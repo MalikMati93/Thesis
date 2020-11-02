@@ -1,0 +1,95 @@
+A student should be able to see the details of his last semester.
+Student should be able to see the tentative study plan.
+There shall be a point where student can register their courses according to warning status and semester number.
+Only academic office shall be able to add, delete, edit offered courses.
+BS student can register a maximum of 18 credit hours per semester including 5 courses and 1-course lab.
+MS student can register a maximum of 9 credit hours per semester.
+Warning Student shall not be able to register their courses on flex. The warning limit for BS is 2.00 CGPA, for MS is 2.50 CGPA, and for PhD it is 3.00 CGPA.
+If a student has failed the CORE course, then it must be automatically registered next time.
+Teachers can add attendance sheets based on section, lecture no., and date.
+Teachers can add marks sheets based on section, for what marks are uploaded (assignment, quiz, midterm, final marks).
+Student can only view their attendance based on semester, lecture.
+Student can only view their marks based on semester, lecture, Type (assignment, quiz, midterm, final marks).
+The student should be able to view their transcript.
+The student of MS cannot register their thesis when 18 credit hours are not completed.
+the student should be able to view their previous semester marks.
+A student should be able to update their password.
+Password should be changed only via nu.edu provided email.
+A student should be able to edit/remove the course.
+A student should also change their password after login the portal.
+A student should not update their credentials.
+A student should be able to view all the previous history of his fee detail.
+A student should be able to download/print fee challan.
+A student should be able to view their fee detail semester vise.
+A student should provide course feedback before the examination.
+A student should be able to view their tentative study plan according to his program.
+A student should be able to view their attendance.
+A student should be able to drop the course.
+A student cannot able to drop Core , Must Take and Deficiency courses .
+System should be able to generate an alert in case student attendance fall short to 80%.
+Student should be able to download course material from website.
+System should be able to generate an alert in case student unable to upload an assignment on portal.
+System should be able to generate an alert if assignment is due for a course.
+A system should not be able to register course in case of warning.
+In course registration table, there shall be a column for degree name e.g. , course of Data mining, computer science, software engineering etc.
+Teacher shall enter marks (quiz, assignment, examinations) within two weeks of submission.
+student should be able to view their course record for all semester not for the current semester only.
+student should only be able to view their attendance based on courses and should not be able to view attendance after semester.
+system should be able to generate fee challan when requested.
+system should be available for 99% of time.
+System shall show the full fee details only based on selected courses registered by the student.
+System shall only allow administrator to register new student on flex.
+system shall not allow non university student to register on system.
+administrator shall have right to remove student in case student leave the university.
+The system shall be able to remember the password of the user.
+The system shall notify the student whenever the attendance or marks are updated.
+The system shall display the timetable of instructors i.e., Class timings and counseling hours.
+The system shall provide academic counseling to the student within a specific time slot i.e., 08:30 am to 05:30 pm.
+The system shall allow a user to calculate his tuition fee against each course selection and deselection.
+The system shall generate timetable specific to each student, according to his chosen courses.
+System shall provide a facility to anonymously add feedback regarding the course and the instructor.
+System should display the basic information of every student.
+Student screens that include all the critical information necessary for reports and decision-making can be accessed with a point and click. 
+Several customizable features are also included that allow you to gather data important to your school or district.
+Student can be searched by not only gender, ethnicity, grade level, etc., but also by their schedule, activities, absences, eligibility, grades, GPA, and class rank, where appropriate.
+A comprehensive grade book that allows teacher to establish grade ranges, weight assignments, track assignments, and issue quarterly and semester grades as well as progress reports.
+Report card and transcripts are also available.
+Furthermore, report cards and transcripts can be configured to display grades for any or all of your schools marking periods on the fly.
+Attendance can be taken electronically by teacher and submitted to the office almost instantly.
+Also, office staff can modify attendance reports based on information not available at the time roll was taken.
+The attendance component further provides report capabilities to identify average daily attendance, to provide daily attendance summaries, and to track attendance each day.
+Middle grade and high school educators will appreciate the eligibility feature of system.
+No longer will paper or spreadsheets have to be used to report what student are eligible for athletic or academic activities; instead, the grade book will determine electronically if a student is passing or not.
+The teacher then merely verifies the information and sends it through the system.
+Scheduler in system allows the scheduling of entire classes or groups as well as the scheduling of a single student.
+Revisions to a student schedule can be performed quickly.
+Scheduling based on a student requests is extremely efficient.
+ Running the scheduler on an entire high school takes minutes instead of hours.
+ So, the scheduler can be run several times a day allowing you to scheduler more thoroughly.
+Also, each time you save a student requests, the scheduler is run under test mode for the student allowing you to resolve conflicts as you have the student in front of you.
+Courses can be added easily to include weights, instructional assignments, and periods.
+As well, you can determine if each course requires attendance, affects the honor roll and class rank, and/or has any restrictions.
+Of course, scheduling reports can be generated through this application also.
+A calendar is included that details events, activities and student assignment.
+A school set-up screen is used to establish marking periods, the grade levels in the building, and the number of periods scheduled each day.
+School demographic information (e.g., name, address, phone numbers, etc.) is entered on this same screen.
+Your schools can have any number of marking periods in three tiers.
+For instance, a school could use the conventional two semesters, four quarters, four progress periods model, or a school could establish its only system of marking periods with 3 semesters, 18 quarters, and 36 progress periods.
+Everything is completely customizable.
+Student enable submit class assignment.
+The class assignment can be preview, although it's a all kinds of pictures, doc, powerpoint, excel, pdf, swf and so on (Maybe with audio and video preview).
+Student enable evaluate the class assignment for each other (like or unlike or give some words).
+The system can auto choose the best one.
+Enable checkout how many class assignment has been done by one student, then make up the assignment if needed.
+Reword the good assignment.
+It should easy for group, for example a leader, a record and so on.
+Use group learning drive student help and inspect each other.
+The final goal is student can study without teacher teaching.
+Create a fully Structured help documentation like wiki.
+Each unit is a very simple instruction with text and pictures.
+They can link to each other if needed.
+Student use these unit can help them finished class assignment.
+And they can explorer new knowleage in book range or not.
+Teacher can create new unit or polish an exists one any time.
+Teacher can develop new unit with the knowleage in or out book range.
+Maybe we will need some standard, like how to display picture or different system version (xp or win7 or win10).
